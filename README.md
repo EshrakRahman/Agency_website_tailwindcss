@@ -54,7 +54,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-
-Your Name - [@eshrak](https://twitter.com/rahman_eshrak)
+- [@eshrak](https://twitter.com/rahman_eshrak)
 
 Project Link: [Agency Website](https://github.com/EshrakRahman/Agency_website_tailwindcss.git)
